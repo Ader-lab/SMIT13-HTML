@@ -22,13 +22,7 @@
     
     <!-- 30. <meta> 標籤 -->
     <h3>30. <a href="https://www.w3schools.com/tags/tag_meta.asp">HTML &lt;meta&gt; Tag</a></h3>
-
-    <!-- 40. 針對 mata tag "keywords"，我們聽聽google的開發人員怎麼說-->
-    <h3>40. <a href=" https://webmasters.googleblog.com/2009/09/google-does-not-use-keywords-meta-tag.html
-        ">Does Google ever use the "keywords" meta tag in its web search ranking?</a></h3>
-
-    <!-- 50. 告訴瀏覽器目前的使用裝置大小 -->
+   
+    <!-- 40. 告訴瀏覽器目前的使用裝置大小 -->
     <h3>50. <a href="https://www.w3schools.com/css/css_rwd_viewport.asp">Responsive Web Design - The Viewport</a></h3>
 
-    <!-- 60. 關於網頁前面的小圖示  -->
-    <h3>60. <a href="https://www.w3schools.com/tags/att_link_sizes.asp">HTML &lt;link&gt; sizes Attribute</a></h3>

@@ -36,21 +36,10 @@ C. 快速鍵 (Windows)：https://code.visualstudio.com/docs/getstarted/keybindin
 	. Ctrl + /：註解 或取消註解
 	. Ctrl + R：切換工作區		
 	. Ctrl + P：開啟選單輸入檔案名稱直接開啟檔案		
-
-	. Ctrl + D：可以針對範圍內所選取到相同的文字進行集體修改
-
-	. Ctrl + H：尋找/取代當前視窗
-	. Ctrl + Shift + H：尋找/取代所有工作區檔案
-	. Ctrl + K：關閉當前視窗
-	. Ctrl + K + W：關閉所有視窗
-	. Ctrl + K + F：格式化(縮排對齊)所選取的區塊
-
-	. Alt + L + O：開啟網頁 (需安裝 Live server 套件才有效果)
-		→ 請確認，電腦針對 *.html類型 預設開啟的應用程式是什麼? ←
-		→ 若擴充套件採用電腦中預設的應用程式打開需另外調整此設定 ←
+	. Ctrl + A：全選		
+	. Ctrl + F：尋找
 
 	. Alt + ↑ / ↓：可以搬移程式碼(可以多行)	
 	. Alt + Shift + ↑ / ↓：可以複製一行
-	. Alt + Shift + F：格式化(縮排對齊)整份文件
 	. Alt + Shift + 滑鼠左鍵：直欄選取
 
